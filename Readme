@@ -1,0 +1,7 @@
+
+# Tornado Hacks
+
+This is an experimental module trying to make Tornado work work with web.py and wsgi applications.
+This module attempts to make use of Tornado's asynchronous features in web.py applications.
+
+
